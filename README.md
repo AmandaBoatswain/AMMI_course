@@ -26,7 +26,7 @@ Download all the files from the zip folder in this repository. Open a terminal a
 
 ` ` ` git clone https://github.com/bioinfoUQAM/datasets_for_ML/ ` ` ` 
 
-` ` `  cd dataset_for_ML  ` ` ` 
+` ` `  cd datasets_for_ML  ` ` ` 
   
 ` ` `  python jupyter notebook  ` ` ` 
  
