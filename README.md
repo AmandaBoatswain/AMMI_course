@@ -40,23 +40,3 @@ You can use this code to create a ML classifier on other existing datasets. Some
 
 ## Contact
 For any questions or concerns regarding this tutorial, please contact amanda.boatswainj@gmail.com
-
-To run this code, you need to have a version of python 3 up and running. This code was tested using python version 3.8.3. Python libraries including matplotlib, scikit-learn, imutils, numpy, cv2 and pandas must be installed in your python environment. 
-
-### Python version
-* python 3.8.3: https://www.python.org/downloads/release/python-383/
-
-### Other libraries 
-You can install these libraries using pip. 
-* matplotlib 3.2.1
-* imutils 0.5.3
-* scikit-learn 0.22.1
-* numpy 1.18.1
-* cv2 (opencv) 4.0.1
-* pandas 1.0.4
-
-## Running this Code
-Download all the files from the zip folder in this repository. Open a terminal and cd to the project folder (if you are using a python environment, make sure to activate it before). You can then open the jupyter notebook and run the cells during the tutorial. 
-
-## Contact
-For any questions or concerns regarding this tutorial, please contact amanda.boatswainj@gmail.com
